@@ -1,0 +1,323 @@
+Name,Protocols,TVL
+Ethereum,1212,"$56,9b"
+Solana,174,"$7,152b"
+Tron,34,"$6,734b"
+BSC,808,"$4,913b"
+Bitcoin,42,"$3,044b"
+Base,380,"$2,885b"
+Avalanche,410,"$1,122b"
+Sui,43,"$1,121b"
+Polygon,581,"$1,08b"
+Hyperliquid,3,"$981,55m"
+Aptos,49,"$918,77m"
+Optimism,269,"$732,1m"
+CORE,48,"$666,23m"
+Blast,142,"$659,04m"
+Mantle,105,"$608,7m"
+Linea,124,"$503,3m"
+Scroll,109,"$478,86m"
+Cronos,115,"$449,34m"
+Bitlayer,21,"$440,33m"
+PulseChain,44,"$407,97m"
+TON,38,"$365,07m"
+Thorchain,3,"$352,96m"
+Gnosis,75,"$308,78m"
+Mode,67,"$273,04m"
+Starknet,30,"$259,66m"
+Cardano,40,"$258,68m"
+dYdX,2,"$225,72m"
+BSquared,18,"$217,46m"
+Near,28,"$210,08m"
+Zircuit,6,"$189,06m"
+Rootstock,24,"$187,17m"
+Sei,32,"$175,79m"
+Merlin,23,"$155,23m"
+Kava,141,"$150,03m"
+Ronin,4,"$138,63m"
+Mixin,10,"$128,62m"
+Fantom,331,"$122,57m"
+EOS,21,"$120,9m"
+Celo,54,"$116,86m"
+MultiversX,22,"$109,11m"
+Osmosis,17,"$104,66m"
+Stacks,12,"$94,43m"
+ZKsync Era,123,"$87,36m"
+Taiko,35,"$80,49m"
+BOB,18,"$76,55m"
+Algorand,33,"$75,97m"
+Kaia,61,"$62,92m"
+Filecoin,22,"$59,89m"
+Metis,60,"$52,86m"
+Injective,24,"$52,79m"
+BounceBit,13,"$49,23m"
+ICP,10,"$49,22m"
+Hedera,12,"$48,47m"
+Hydration,1,"$48,32m"
+zkLink Nova,23,"$43,49m"
+Telos,41,"$42,06m"
+Manta,63,"$41,15m"
+Fraxtal,16,"$40,73m"
+Neutron,11,"$39,73m"
+re.al,10,"$38,89m"
+Tezos,20,"$38,73m"
+Fuel Ignition,3,"$36,06m"
+Cronos zkEVM,10,"$26,35m"
+Mayachain,1,"$24,63m"
+IOTA EVM,8,"$24,17m"
+Flow,11,"$23,56m"
+Bifrost Network,4,"$23,11m"
+Moonbeam,61,"$22,12m"
+Kujira,15,"$21,74m"
+K2,2,"$21,4m"
+opBNB,39,"$20,92m"
+Astar,43,"$20,19m"
+Chainflip,1,"$19,45m"
+IoTeX,31,"$19,1m"
+Radix,12,"$19,07m"
+Stellar,9,"$17,56m"
+MAP Protocol,9,"$17,25m"
+Flare,16,"$16,26m"
+Rollux,5,"$16,01m"
+Aurora,60,"$15,71m"
+XRPL,6,"$14,62m"
+ApeChain,7,"$14,6m"
+WEMIX3.0,12,"$14,48m"
+Reya Network,3,"$14,07m"
+NEO,6,"$13,95m"
+Conflux,16,"$13,87m"
+Immutable zkEVM,3,"$13,47m"
+Bitcoincash,3,"$12,94m"
+Icon,6,"$12,06m"
+Waves,9,"$11,85m"
+Secret,9,"$11,76m"
+DefiChain,3,"$11,11m"
+Chiliz,6,"$10,17m"
+ZetaChain,24,"$9,89m"
+Polygon zkEVM,70,"$9,78m"
+FSC,1,"$9,77m"
+X Layer,26,"$9,6m"
+XDC,11,"$8,95m"
+Canto,24,"$8,51m"
+Ontology,3,"$7,9m"
+Bifrost,3,"$7,78m"
+Onus,5,"$7,14m"
+Venom,3,"$7,13m"
+Alephium,4,"$6,18m"
+Doge,4,"$6,13m"
+Dexalot,1,"$5,36m"
+GodwokenV1,7,"$5,28m"
+Moonriver,57,"$5,06m"
+Dymension,2,"$5,03m"
+Vite,4,"$4,95m"
+Dogechain,45,"$4,79m"
+Oraichain,4,"$4,66m"
+Carbon,4,"$4,54m"
+Ergo,10,"$4,47m"
+Astar zkEVM,11,"$4,33m"
+Litecoin,4,"$4,31m"
+Terra2,14,"$4,1m"
+Beam,2,"$4,05m"
+Nuls,4,"$4,04m"
+Gravity,4,"$4,02m"
+Proton,3,"$4,01m"
+DFS Network,1,"$3,98m"
+Morph,4,"$3,94m"
+Vision,2,"$3,81m"
+Shibarium,16,"$3,76m"
+DFK,2,"$3,76m"
+Wanchain,9,"$3,61m"
+Bahamut,6,"$3,41m"
+FunctionX,3,"$3,05m"
+BEVM,9,"$2,8m"
+Meter,13,"$2,78m"
+Oasis Sapphire,5,"$2,58m"
+Horizen EON,7,"$2,57m"
+Interlay,5,"$2,56m"
+aelf,1,"$2,52m"
+smartBCH,23,"$2,5m"
+Polynomial,2,"$2,39m"
+Harmony,61,"$2,33m"
+Zkfair,12,"$2,23m"
+Archway,6,"$2,19m"
+UX,3,"$2,19m"
+OKTChain,37,"$2,12m"
+Hydra,3,"$2,05m"
+Boba,28,"$1,96m"
+World Chain,5,"$1,82m"
+Theta,5,"$1,69m"
+KCC,28,"$1,6m"
+Persistence One,3,"$1,58m"
+Zilliqa,7,"$1,51m"
+Wax,8,"$1,43m"
+Terra Classic,30,"$1,39m"
+DeFiVerse,1,"$1,38m"
+Xai,3,"$1,32m"
+Neon,11,"$1,3m"
+Elastos,3,"$1,26m"
+Everscale,2,"$1,25m"
+XPLA,2,"$1,24m"
+HAQQ,5,"$1,24m"
+Heco,51,"$1,2m"
+Velas,15,"$1,17m"
+IDEX,1,"$1,16m"
+Equilibrium,1,"$1,14m"
+Songbird,7,"$1,12m"
+Arbitrum Nova,10,"$1,08m"
+Lisk,1,"$1,07m"
+AirDAO,4,"$1,06m"
+Fuse,25,"$1,06m"
+Rangers,2,"$1,05m"
+ShimmerEVM,7,$955 220
+Oasis Emerald,19,$943 165
+CosmosHub,5,$942 641
+RENEC,1,$932 026
+Degen,9,$861 407
+Sanko,3,$806 535
+Etherlink,6,$806 487
+Oasys,4,$793 399
+Acala,8,$787 616
+Milkomeda C1,21,$769 818
+Kadena,6,$742 277
+Elysium,1,$719 133
+SatoshiVM,1,$696 135
+Chihuahua,3,$688 509
+RSS3,1,$687 719
+Ultron,3,$657 467
+Obyte,7,$656 992
+LaChain Network,2,$620 538
+ThunderCore,10,$618 704
+Starcoin,3,$611 535
+NOS,1,$550 389
+Naka,1,$548 283
+Bostrom,1,$517 907
+Kroma,7,$511 487
+Energi,1,$510 235
+SKALE Europa,6,$501 898
+Evmos,23,$494 041
+Parallel,5,$492 438
+Nolus,1,$491 789
+CSC,5,$478 726
+VeChain,2,$475 135
+Bittorrent,16,$470 532
+EthereumClassic,11,$429 698
+Boba_Bnb,2,$395 770
+Q Protocol,4,$374 060
+Juno,10,$343 345
+ENULS,3,$339 090
+Tombchain,1,$334 175
+Sora,2,$324 338
+Saakuru,1,$311 142
+HeLa,1,$308 795
+Migaloo,3,$306 958
+Heiko,5,$293 978
+Mint,1,$282 601
+Crab,1,$276 989
+Nahmii,1,$274 388
+Shape,2,$271 455
+Genesys,1,$255 217
+inEVM,7,$252 669
+Dash,1,$239 271
+LightLink,3,$236 630
+Viction,7,$231 787
+Zora,4,$229 047
+Kardia,7,$198 322
+Bitrock,3,$196 895
+EnergyWeb,1,$192 935
+Ancient8,3,$176 791
+Loop,2,$172 393
+Step,2,$169 928
+DeFiChain EVM,3,$169 455
+Endurance,3,$159 776
+ALV,2,$149 353
+Godwoken,3,$135 584
+Massa,1,$135 391
+EthereumPoW,18,$126 906
+AILayer,6,$121 706
+Karura,5,$120 536
+MEER,1,$98 640
+Matchain,1,$90 525
+Polkadex,1,$84 886
+Stargaze,3,$83 851
+Aura Network,2,$83 185
+Bitkub Chain,2,$81 643
+Libre,1,$80 922
+Comdex,5,$75 822
+Newton,1,$75 069
+SXnetwork,1,$72 955
+Kintsugi,1,$72 123
+Areon Network,1,$67 956
+Shiden,7,$66 521
+Electroneum,2,$58 115
+Grove,1,$49 848
+Findora,5,$49 613
+Crescent,1,$46 585
+Neo X Mainnet,2,$38 966
+Polkadot,3,$38 558
+Concordium,1,$33 385
+Syscoin,4,$26 344
+JBC,3,$25 671
+EOS EVM,8,$25 017
+REI,6,$23 018
+HPB,1,$21 052
+Planq,2,$20 372
+Cyber,2,$19 152
+Rari,2,$19 050
+Ham,2,$17 257
+Lachain,3,$16 595
+Cube,3,$16 457
+MVC,1,$15 684
+MultiVAC,3,$14 165
+Manta Atlantic,1,$12 331
+GoChain,1,$12 158
+Callisto,1,$11 735
+Darwinia,1,$9 385
+Sifchain,1,$8 220
+ETHF,1,$7 455
+Joltify,2,$7 129
+Zeniq,1,$6 320
+Bitgert,12,$5 003
+OntologyEVM,4,$4 930
+REIchain,1,$4 544
+Tenet,2,$3 288
+Bitnet,1,$3 034
+Aeternity,1,$1 485
+Milkomeda A1,3,$1 144
+Palm,2,"$538,71"
+Lung,1,"$424,32"
+Asset Chain,1,"$15,19"
+Pego,2,"$3,81"
+Kusama,1,$0
+Celestia,2,$0
+BandChain,1,$0
+Quicksilver,1,$0
+Nibiru,2,$0
+Pokt,1,$0
+Sommelier,1,$0
+Goerli,1,$0
+Stride,1,$0
+Dexit,3,$0
+Omax,2,$0
+Fusion,3,$0
+Boba_Avax,1,$0
+Stafi,1,$0
+OXFUN,1,$0
+Empire,1,$0
+Hoo,4,$0
+Echelon,5,$0
+CLV,6,$0
+DSC,1,$0
+ZKsync Lite,3,$0
+Nova Network,2,$0
+CMP,1,$0
+Genshiro,1,$0
+Lamden,1,$0
+Polis,1,$0
+ZYX,1,$0
+Ubiq,1,$0
+Coti,1,$0
+Kekchain,3,$0
+MUUCHAIN,1,$0
+Tlchain,1,$0
+Bitindi,2,$0
+Bone,1,$0
+Lukso,2,$0
