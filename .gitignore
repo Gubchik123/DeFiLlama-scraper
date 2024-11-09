@@ -1,0 +1,13 @@
+# Compiled bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local development files
+*.env
+*.log
+*.sqlite3
+venv/
+.venv/
+.vscode/
+.idea/
